@@ -1,0 +1,16 @@
+.venv/
+lab1/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.log
+lab1/code/models/
+build/
+install/
+log/
+.env
+
+dev1/
+aider-kit/
+
+lab1/
